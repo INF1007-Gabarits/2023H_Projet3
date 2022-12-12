@@ -1,5 +1,5 @@
 # Projet 3: Lectures de fichier, Bibliothèques scientifiques et graphiques, Programmation orientée objet
-> :alarm_clock: [Date de remise le vendredi 2 décembre 2022 à 23h55](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+> :alarm_clock: Date de remise le jeudi 20 avril 2023 à 23h59.
 
 ![](images/poly_space_program.jpg "Poly Space Program")
 Poly Space Program [0]
