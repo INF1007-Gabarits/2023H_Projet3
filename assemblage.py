@@ -33,9 +33,9 @@ def corps_celestes_accessibles(fusee: Fusee) -> List[str]:
 
 def comparer_fusee(fusee_1: Fusee, fusee_2: Fusee) -> None:
     # TODO créer un grouped barplot comparant les fusées passées en paramètre en fonction des trois métriques suivantes:
-    #  * Masse / Coût
-    #  * DeltaV / Coût
     #  * DeltaV / Masse
+    #  * DeltaV / Coût
+    #  * Hauteur / Masse
     # TODO Générez un dataframe avec trois colonnes; fusée, résultats des différents ratios et type_ratio
     pass
 
